@@ -115,7 +115,6 @@ Superstore-Sales/
 │── data/
 │   └── train.csv
 │── docs/
-│   ├── presentation.pdf
 │   └── Persentation.pdf
 │── report/
 │   └── Superstore Sales power pi.pbix
